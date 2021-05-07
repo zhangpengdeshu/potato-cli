@@ -13,7 +13,7 @@
      "hooks": {
          "pre-commit": "lint-staged",
          "pre-push": "line-staged",
-         "commi-msg": "npm run commit"
+         "commit-msg": "npm run commit"
      }
  },
  "lint-staged": {
